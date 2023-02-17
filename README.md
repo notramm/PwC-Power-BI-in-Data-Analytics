@@ -4,43 +4,13 @@
 Welcome to the PwC Switzerland Power BI in Data Analytics.
 
 PwC Switzerland envisions strategic and coordinated company-wide implementation of new technology that impacts all employees and existing processes.
-
-## Task 1 : Introduction
-
-### Here is the background information on the task
-
-All in on digital transformation: Creating a stronger, nimbler, more resilient future! 
-
 We aim to build innovative technology solutions that differentiate us from our competitors and digitise the business. Part of that included a strategic decision to invest in upskilling programmes so our people could learn how to use digital tools for data visualisation as well as automation, data cleansing and more.
+
 If our people could use these tools to solve common problems, they’d help us become more efficient and growth-oriented now and more innovative later in Business Services and beyond. Now, employees are learning to build bots – over 2,400 have been created so far – to automate workflows. We continue to invest to make processes more intuitive using machine learning, PowerBI and eventually artificial intelligence (AI). These are key to working faster and solving problems differently for ourselves and our clients.
 
-This is why you're here! Our Digital Accelerator programme is an internal chance that takes groups of our employees out of their day jobs and puts them through  trainings that teaches them skills in technology such as automation, machine learning, design thinking, and digital storytelling. PowerBI is an important part of it as visualising data helps to handle and understand clients. 
+This is why you're here! Our Digital Accelerator programme is an internal chance that takes groups of our employees out of their day jobs and puts them through  trainings that teaches them skills in technology such as automation, machine learning, design thinking, and digital storytelling. PowerBI is an important part of it as visualising data helps to handle and understand clients.
 
-So, become a Digital Accelerator yourself and start your PowerBI journey with us!
-
-Watch the video below for inspiring insight on Digital Upskilling before kick-starting your journey through this program! Remember this is a self-reflection question, no more resources needed.
-
-[New world. New skills. PwC's journey to drive a digital mindset](https://www.youtube.com/watch?v=51whQDz-Dk0&ab_channel=PwCUS)
-
-And watch the video below to hear from our Global Chairman: 
-
-[Upskilling: Bridging the Digital Divide](https://www.youtube.com/watch?v=8HE43CFLiag&ab_channel=PwC)
-
-
-## Task 2 : Call Centre Trends
-
-### Here is the background information on the task
-
-The digital revolution and our fast-changing world requires a skills revolution. And it’s not just about the digital skills. The skills revolution is about helping people build their digital awareness, emotional intelligence and creativity to fully participate in the digital future workplace — and it needs to start now.
-At PwC, we are working with other organisations across the world, building on our work with clients and on upskilling our 276,000 people. Still, more must be done if we are to ensure everyone has the opportunity to learn, work and participate in the digital world. This is at the heart of our purpose.
-
-We are enabling employees who are motivated to further accelerate their skills to do so by offering them a “career pivot” to become what we call “Digital Accelerators”. Accelerators rapidly deepen their skills in digital specialties, such as data, automation, AI, and digital storytelling by learning a variety of self-service tools and coding languages and applying these skills across our business.
-
-We're happy you joined us, welcome to the team! Giulia is your manager and helps you through your upskilling journey in PowerBI - your step to become a true data jedi and Digital Accelerator. But wait no more, word spreads fast and an important client reached out to you to help him visualising their data. 
-
-
-### Here is your task
-
+## Task 1 : Call Centre Trends
 ----
 It’s omnipresent: telecom marketing. Better price here. Better service there. Best for small businesses here. Best for young urbanites there. But what do customers really want? Our client, a big telecom company needs to know. This email just arrived for you:
 
@@ -58,7 +28,7 @@ Dataset for this task
 [Call Center](https://github.com/notramm/PwC-PowerBI-in-Data-Analytics/blob/master/Dataset/01%20Call-Center-Dataset.xlsx)
 
 
-## Task 3 : Customer Retention
+## Task 2 : Customer Retention
 
 ### Here is the background information on the task
 
@@ -71,7 +41,7 @@ In addition, to better understand the data, the telecom Retention Manager has sc
 * We would like to know more about our customers: visualised clearly so that it’s self-explanatory for our management
 The Retentions Manager has provided some information, have a look through the resource section.
 
-### Here is your task
+### Here is the task
 
 ----
 Your colleague, the engagement partner, asks you to do the following tasks:
@@ -84,7 +54,7 @@ Dataset for this task
  2.[PhoneNow Inputs](https://github.com/notramm/PwC-PowerBI-in-Data-Analytics/blob/master/Dataset/PhoneNow%20inputs.pdf)
 
 
-## Task 4 : Diversity & Inclusion
+## Task 3 : Diversity & Inclusion
 
 ### Here is the background information on the task
 
@@ -106,7 +76,7 @@ Here is a hint: Calculating the following measures could help to define proper K
 * Average performance rating: men
 * Average Performance rating: women
 
-### Here is your task
+### Here is the task
 
 ----
 Your task is to do the following:
