@@ -95,9 +95,9 @@ Think about the importance of strategy, awareness and education, analytics and i
 
 Here is a hint: Calculating the following measures could help to define proper KPIs:
 
-* sum of men
-* sum of women
-* sum of leavers
+* number of men
+* number of women
+* number of leavers
 * % employees promoted (FY21)
 * % of women promoted
 * % of hires men
@@ -151,6 +151,9 @@ Dataset for this task
   
   <img src="https://github.com/notramm/PwC-PowerBI-in-Data-Analytics/blob/master/Screenshots/Diversity%20%26%20Inclusion-2.png" width="800" class="center">
 
+### Reference
+
+- [Forage - PwC Switzerland Power BI in Data Analytics Virtual Case Experience](https://www.theforage.com/virtual-internships/prototype/a87GpgE6tiku7q3gu/Power%20BI%20in%20Data%20Analytics?ref=zYi2CnpbWjhcS7sAk)
 
 
 
