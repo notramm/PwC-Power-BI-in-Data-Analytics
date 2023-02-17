@@ -1,4 +1,4 @@
-# PwC-PowerBI-in-Data-Analytics
+# PwC PowerBI in Data Analytics
 ## Forage Data Analytics project Powerbi Dashboard Experience
 
 Welcome to the PwC Switzerland Power BI in Data Analytics.
