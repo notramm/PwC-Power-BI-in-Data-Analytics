@@ -89,12 +89,12 @@ Dataset for this task
 
 ### Key Larnings
 
-1. Learned about what real business data sets look like.
-2. Learned about Visualising customer and agent behaviour.
+1. Learnt about what real business data sets look like.
+2. Learnt about Visualising customer and agent behaviour.
     >Defining KPIs >Power BI Dashboard
-3. Learned about Customer demographics and insights.
+3. Learnt about Customer demographics and insights.
     >Defining KPIs >Power BI >Insights and Actions
-4. Learned about Gender balance in the executive suite.
+4. Learnt about Gender balance in the executive suite.
     >Calculating Measures >Defining KPIs >Power BI Dashboard >Insight and Actions
 
 
